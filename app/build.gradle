@@ -37,4 +37,3 @@ dependencies {
     // Glide - Image loading
     compile 'com.github.bumptech.glide:glide:3.7.0'
 }
-
